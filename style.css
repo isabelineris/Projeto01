@@ -1,6 +1,15 @@
-.corpo-conteudo{
+.cabeçalho{
     background-color: red;
     color: white;
+}
+.principal{
+    background-color: hotpink;
+    color: lightcoral;
+}
+.rodapé{
+    background-color: darksalmon;
+    color: gold;
+    text-align: center;
 }
 #noitelua{
   width: 600px;
