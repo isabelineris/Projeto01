@@ -1,14 +1,14 @@
 .cabeçalho{
-    background-color: red;
+    background-color: bisque;
     color: white;
 }
 .principal{
-    background-color: hotpink;
+    background-color: rgb(99, 205, 247);
     color: lightcoral;
 }
 .rodapé{
     background-color: darksalmon;
-    color: gold;
+    color: rgb(233, 80, 247);
     text-align: center;
 }
 #noitelua{
